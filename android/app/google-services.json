@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "901708312947",
+    "firebase_url": "https://connections-a14db.firebaseio.com",
+    "project_id": "connections-a14db",
+    "storage_bucket": "connections-a14db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901708312947:android:464fa675d922da1a92d506",
+        "android_client_info": {
+          "package_name": "co.RobertLjm.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901708312947-ev1o4jee9u266ingufpsv26caqkgduji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqFuGwvzR37aiZFKIaarcDzyZ4-ENwNbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901708312947-ev1o4jee9u266ingufpsv26caqkgduji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
